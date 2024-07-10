@@ -9,7 +9,7 @@
 
 - 🌱 I have worked on SMARTINTERNZ project **https://github.com/MansaaNarang/ASSIGNMENTS-FOR-SMARTINTERNZ**
 
-- 👯 I have collabrated in [United Transit Services(UTS)](https://github.com/EPICS-UTS)
+- 👯 I have collabrated in [United Transit Services(UTS)](https://github.com/EPICS-UTS/UTS)
 
 - 🤝 I have created [ART-Gallery Website](https://github.com/MansaaNarang/Art-Gallery)
 
