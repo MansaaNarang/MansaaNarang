@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mansaanarang" alt="mansaanarang" /></a> </p>
 
-- 🔭 I’m have worked on [E-commerce Website](https://github.com/MansaaNarang/E-commerce-Website)
+- 🔭 I have worked on [E-commerce Website](https://github.com/MansaaNarang/E-commerce-Website)
 
 - 🌱 I have worked on SMARTINTERNZ project **https://github.com/MansaaNarang/ASSIGNMENTS-FOR-SMARTINTERNZ**
 
-- 👯 I’m have collabrated in [United Transit Services(UTS)](https://gitfront.io/r/MANSAANARANG/mXQhd7w4CBCa/UTS/)
+- 👯 I have collabrated in [United Transit Services(UTS)](https://gitfront.io/r/MANSAANARANG/mXQhd7w4CBCa/UTS/)
 
 - 🤝 I have created [ART-Gallery Website](https://github.com/MansaaNarang/Art-Gallery)
 
