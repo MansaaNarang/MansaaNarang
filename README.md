@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mansaanarang08@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PBViYGARp1KT8c1kt1FM7CMBNv0aYu3L/view?usp=sharing](https://drive.google.com/file/d/1PBViYGARp1KT8c1kt1FM7CMBNv0aYu3L/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1uOdM5yBuFd49HMqLGTJJPhxMSMgJe_7w/view?usp=sharing](https://drive.google.com/file/d/1uOdM5yBuFd49HMqLGTJJPhxMSMgJe_7w/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
