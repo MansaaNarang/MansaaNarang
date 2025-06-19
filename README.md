@@ -9,9 +9,7 @@
 
 ### 🚀 About Me
 
-- 🔭 I'm currently working on **E-commerce Website** using modern web technologies
-- 🌱 I'm currently learning **Advanced JavaScript Frameworks**
-- 👯 I'm looking to collaborate on **Open Source Projects**
+- 🔭 Worked on **E-commerce Website** using modern web technologies
 - 💬 Ask me about **Frontend Development, JavaScript, CSS**
 - 📫 How to reach me: **mansaanarang08@gmail.com**
 - ⚡ Fun fact: **I love solving coding problems and creating beautiful user interfaces**
