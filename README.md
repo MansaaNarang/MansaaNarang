@@ -9,26 +9,31 @@
 
 ### 🚀 About Me
 
-- 🔭 Worked on **E-commerce Website** using modern web technologies
-- 💬 Ask me about **Frontend Development, JavaScript, CSS**
-- 📫 How to reach me: **mansaanarang08@gmail.com**
+- 💻 Currently **Maverick Trainee at Hexaware Technologies** (Java, SQL, Web Technologies, Cloud, Agile, Git)  
+- 🎨 Ex-UX Designer Intern at **ClearTrail Technologies**  
+- 🔭 Worked on **E-commerce Website, UTS Transport Platform, Art Gallery Website**  
+- 💬 Ask me about **Frontend Development, JavaScript, CSS, Java**  
+- 📫 How to reach me: **mansaanarang08@gmail.com**  
 - ⚡ Fun fact: **I love solving coding problems and creating beautiful user interfaces**
 
 ---
 
 ### 🛠️ My Projects
 
-**🔭 [E-commerce Website](https://github.com/MansaaNarang/E-commerce-Website)**
-- Complete online shopping platform with modern UI/UX
+**📊 [Sales Data Visualization and Analytics](https://github.com/MansaaNarang/Sales-Data-Analytics)**  
+- Power BI dashboard visualizing KPIs such as revenue, profit, and units sold.  
 
-**🌱 [SMARTINTERNZ Assignments](https://github.com/MansaaNarang/ASSIGNMENTS-FOR-SMARTINTERNZ)**
-- Collection of programming assignments and practical implementations
+**🚍 [United Transit Services (UTS)](https://github.com/EPICS-UTS/UTS)**  
+- Transport service platform for seniors & differently-abled users.  
 
-**👯 [United Transit Services (UTS)](https://github.com/EPICS-UTS/UTS)**
-- Collaborative transportation solutions platform
+**🛒 [E-commerce Website](https://github.com/MansaaNarang/E-commerce-Website)**  
+- Complete online shopping platform with modern UI/UX.  
 
-**🤝 [ART Gallery Website](https://github.com/MansaaNarang/Art-Gallery)**
-- Beautiful digital art showcase platform
+**🎨 [Art Gallery Website](https://github.com/MansaaNarang/Art-Gallery)**  
+- A digital art showcase platform.  
+
+**📘 [SMARTINTERNZ Assignments](https://github.com/MansaaNarang/ASSIGNMENTS-FOR-SMARTINTERNZ)**  
+- Collection of programming assignments and practical implementations.  
 
 ---
 
@@ -50,12 +55,34 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mansaanarang&theme=flat&no-frame=true&no-bg=true&margin-w=4" alt="mansaanarang" /></a> </p>
+### 📄 Resume  
+
+**Mansaa Narang**  
+📧 mansaanarang08@gmail.com | 📱 +91 9575332458 | 🌐 [LinkedIn](https://linkedin.com/in/mansaa-narang-067118277) | 💻 [GitHub](https://github.com/MansaaNarang)  
+
+**Work Experience**  
+- **Hexaware Technologies (Jul 2025 – Present)** — Maverick Trainee  
+  - Training in **Java, SQL, Web Tech, Git, Cloud, Agile**  
+  - Built solo practice projects, applying strong coding foundations.  
+- **ClearTrail Technologies (Apr 2024 – Jun 2024)** — UX Designer Intern  
+  - Designed **data visualization interfaces** in Figma.  
+  - Built **interactive real-time dashboards** with Framer.  
+
+**Education**  
+- **B.Tech CSE**, Vellore Institute of Technology (2021 – 2025) | CGPA: 8.76/10  
+
+**Certifications**  
+- Cloud Computing (NPTEL)  
+- Generative AI (Google Cloud)  
+- Computer Networking (Google)  
+- Pre-MBA Statistics (IIM Ahmedabad)  
+- Motion Design with Figma (Udemy)  
+- Web Development (Teachnook)  
 
 ---
 
@@ -68,7 +95,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mansaanarang&theme=default" alt="mansaanarang" /></p>
 
 ---
-
-### 📄 Resume
-
-**[View My Experience & Skills](https://drive.google.com/file/d/1Cs1mQd_6AaXMU80rNtkJdcPloGlw3TDB/view?usp=sharing)** 📋
