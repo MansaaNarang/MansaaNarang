@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 💻 Currently **Maverick Trainee at Hexaware Technologies** (Java, SQL, Web Technologies, Cloud, Agile, Git)  
+- 💻 Currently **Maverick Trainee at Hexaware Technologies**  
 - 🎨 Ex-UX Designer Intern at **ClearTrail Technologies**  
 - 🔭 Worked on **E-commerce Website, UTS Transport Platform, Art Gallery Website**  
 - 💬 Ask me about **Frontend Development, JavaScript, CSS, Java**  
