@@ -65,24 +65,6 @@
 **Mansaa Narang**  
 📧 mansaanarang08@gmail.com | 📱 +91 9575332458 | 🌐 [LinkedIn](https://linkedin.com/in/mansaa-narang-067118277) | 💻 [GitHub](https://github.com/MansaaNarang)  
 
-**Work Experience**  
-- **Hexaware Technologies (Jul 2025 – Present)** — Maverick Trainee  
-  - Training in **Java, SQL, Web Tech, Git, Cloud, Agile**  
-  - Built solo practice projects, applying strong coding foundations.  
-- **ClearTrail Technologies (Apr 2024 – Jun 2024)** — UX Designer Intern  
-  - Designed **data visualization interfaces** in Figma.  
-  - Built **interactive real-time dashboards** with Framer.  
-
-**Education**  
-- **B.Tech CSE**, Vellore Institute of Technology (2021 – 2025) | CGPA: 8.76/10  
-
-**Certifications**  
-- Cloud Computing (NPTEL)  
-- Generative AI (Google Cloud)  
-- Computer Networking (Google)  
-- Pre-MBA Statistics (IIM Ahmedabad)  
-- Motion Design with Figma (Udemy)  
-- Web Development (Teachnook)  
 
 ---
 
